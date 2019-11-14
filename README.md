@@ -5,7 +5,8 @@
 
 
 Compile: javac *.java
+
 Run: java driver.java
-     then enter number of iterations
-     after calculation enter 1 to run again 2 to leave.
+
+Then enter number of iterations, after calculation is done enter 1 to run again 2 to leave.
 
